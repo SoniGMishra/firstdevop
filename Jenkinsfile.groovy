@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        REPO_URL = 'https://github.com/[your-username]/jenkins-practice.git' // Replace with your repo
+        REPO_URL = 'https://github.com/SoniGMishra/firstdevop.git' // Replace with your repo
     }
 
     stages {
